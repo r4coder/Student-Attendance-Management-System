@@ -29,11 +29,7 @@ Use the following credentials to explore the application:
 ⚠️ *These demo accounts are provided only for testing purposes.*
 
 ---
-## 🎥 Demo Video
 
-Click the thumbnail to see the demo
-
-[![Watch the video](https://img.youtube.com/vi/W6Wn3ig0XTY/0.jpg)](https://youtu.be/W6Wn3ig0XTY)
 
 ---
 
