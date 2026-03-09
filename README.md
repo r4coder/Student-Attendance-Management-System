@@ -28,10 +28,6 @@ Use the following credentials to explore the application:
 
 ⚠️ *These demo accounts are provided only for testing purposes.*
 
----
-
-
----
 
 ## ⚡ Technical Highlights
 
